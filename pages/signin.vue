@@ -98,7 +98,7 @@
   
   .input-group input {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #0505057a;
     border-radius: 5px;
     font-size: 16px;
   }
@@ -124,7 +124,7 @@
   }
   
   button:disabled {
-    background: gray;
+    background: rgb(0, 0, 0);
     cursor: not-allowed;
   }
   

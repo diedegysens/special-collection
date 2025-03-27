@@ -28,12 +28,12 @@ export default {
   data() {
     return {
       images: [
-        { src: "/images/book1.jpg", alt: "Open book with artwork" },
-        { src: "/images/book2.jpg", alt: "Black and white photo book" },
-        { src: "/images/book3.jpg", alt: "Open book with text" },
-        { src: "/images/book4.jpg", alt: "Close-up of text in book" },
-        { src: "/images/book5.jpg", alt: "Orange book cover" },
-        { src: "/images/book6.jpg", alt: "Black box book - FEDRIGONI" },
+        { src: "/images/5.jpg", alt: "Open book with artwork" },
+        { src: "/images/5.jpg", alt: "Black and white photo book" },
+        { src: "/images/5.jpg", alt: "Open book with text" },
+        { src: "/images/5.jpg", alt: "Close-up of text in book" },
+        { src: "/images/5.jpg", alt: "Orange book cover" },
+        { src: "/images/5.jpg", alt: "Black box book - FEDRIGONI" },
         { src: "/images/book7.jpg", alt: "Book with digital art" },
         { src: "/images/book8.jpg", alt: "Uncoated colors book" },
         { src: "/images/book9.jpg", alt: "Typography book with 'Hi'" },

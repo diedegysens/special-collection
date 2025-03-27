@@ -33,11 +33,11 @@
         book: {
           number: "nr1",
           title: "Sheila Hicks",
-          cover: "/images/book-cover.jpg",
+          cover: "/images/9 4.jpg",
           images: [
-            "/images/book-page1.jpg",
-            "/images/book-page2.jpg",
-            "/images/book-page3.jpg",
+            "/images/9.jpg",
+            "/images/9 2.jpg",
+            "/images/9 3.jpg",
           ],
           description:
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
