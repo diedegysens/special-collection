@@ -31,15 +31,15 @@
     data() {
       return {
         images: [
-          { src: "/images/5.jpg", alt: "Open book with artwork" },
-          { src: "/images/8.jpg", alt: "Black and white photo book" },
-          { src: "/images/9 2.jpg", alt: "Open book with text" },
-          { src: "/images/9 3.jpg", alt: "Close-up of text in book" },
-          { src: "/images/9 4.jpg", alt: "Orange book cover" },
-          { src: "/images/9 5.jpg", alt: "Black box book - FEDRIGONI" },
-          { src: "/images/9.jpg", alt: "Book with digital art" },
-          { src: "/images/11.jpg", alt: "Uncoated colors book" },
-          { src: "/images/12 2.jpg", alt: "Typography book with 'Hi'" },
+          { src: "/images/5 normaal.jpeg", alt: "Open book with artwork" },
+          { src: "/images/8 normaal.jpeg", alt: "Black and white photo book" },
+          { src: "/images/9 2 normaal.jpeg", alt: "Open book with text" },
+          { src: "/images/9 3 normaal.jpeg", alt: "Close-up of text in book" },
+          { src: "/images/9 4 normaal.jpeg", alt: "Orange book cover" },
+          { src: "/images/9 5 normaal.jpeg", alt: "Black box book - FEDRIGONI" },
+          { src: "/images/9 normaal.jpeg", alt: "Book with digital art" },
+          { src: "/images/11 normaal.jpeg", alt: "Uncoated colors book" },
+          { src: "/images/12 2 normaal.jpeg", alt: "Typography book with 'Hi'" },
         ],
       };
     },
